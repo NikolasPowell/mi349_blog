@@ -29,8 +29,8 @@ h3 {
 }
 
 /*This is a id selector*/
-#blogs {
-    border-top: 5px dotted black;
+h2 {
+    border-bottom: 5px dotted black;
 }
 
 /*This is a class selector*/
