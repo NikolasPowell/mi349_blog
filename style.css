@@ -4,6 +4,7 @@ body {
     margin: 30px;
     padding: 30px;
     font-family: 'Times New Roman', Times, serif;
+    width: 700px;
 }
 
 html {
@@ -42,3 +43,4 @@ h3 {
 a[target] {
     background-color: lightgrey;
 }
+
