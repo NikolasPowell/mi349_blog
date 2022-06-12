@@ -75,7 +75,7 @@ label {
 
 .column {
     column-count: 4;
-    column-gap: 50px;
+    column-gap: 10px;
     column-rule-style: dotted;
 
 }
