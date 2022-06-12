@@ -1,8 +1,9 @@
 body {
 background-color: white;
-margin: 50px;
-padding: 50px;
+margin: 45px;
+padding: 45px;
 font-family: 'Times New Roman', Times, serif;
+border-top: 30px solid lightgreen;
 }
 
 html {
