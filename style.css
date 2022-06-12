@@ -63,4 +63,7 @@ label {
 
 .sticky {
     background: yellow;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
 }
