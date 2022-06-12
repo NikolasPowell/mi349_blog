@@ -10,6 +10,11 @@ html {
     background: darkslategrey;
 }
 
+p {
+    width: 50px;
+    margin: 15px;
+}
+
 /*This is a type selector*/
 h1 {
     border-top: 10px solid black;
