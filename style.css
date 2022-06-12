@@ -1,11 +1,12 @@
 body {
-background-color: white;
-margin: 45px;
-padding: 45px;
-font-family: 'Times New Roman', Times, serif;
-border-top: 30px solid lightgreen;
+    background-color: white;
+    margin: 30px;
+    padding: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    border-top: 30px double lightgrey;
 }
 
 html {
     background: darkslategrey;
 }
+
