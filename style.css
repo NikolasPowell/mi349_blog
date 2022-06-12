@@ -38,6 +38,6 @@ h3 {
     border-bottom: 5px double lightgrey;
 }
 
-a[title=_about] {
+a[target] {
     background-color: lightgrey;
 }
