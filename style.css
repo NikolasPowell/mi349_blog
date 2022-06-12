@@ -15,10 +15,14 @@ h1 {
     margin: 0;
 }
 
+div{
+    border-top: 10px solid black;
+}
+
 .blog {
     border-bottom: 5px double lightgrey;
 }
 
-#blogMW {
+#blogDS {
     border-top: 10px solid black;
 }
