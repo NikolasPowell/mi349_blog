@@ -14,10 +14,10 @@ h1 {
     margin: 0;
 }
 
-.blog {
-    border-bottom: 5px double lightgrey;
-}
-
 #blogDS {
     border-top: 10px solid black;
+}
+
+.blog {
+    border-bottom: 5px double lightgrey;
 }
