@@ -11,7 +11,7 @@ html {
 }
 
 h1 {
-    border-top-style: 30px double black;
+    border-top-style: solid black;
     margin: 0;
 }
 
