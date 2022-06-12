@@ -73,13 +73,6 @@ label {
     margin-right: 10px;
 }
 
-aside {
-    background: blue;
-    flex: 1;
-    flex-direction: column;
-}
-
-.test {
-    background: red;
-    flex: 5
+article:nth-of-type(2) {
+    display: flex;
 }
