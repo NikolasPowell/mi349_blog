@@ -83,6 +83,6 @@ div {
     flex: 5
 }
 
-#blog {
+section {
     display: flex;
 }
