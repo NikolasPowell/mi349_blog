@@ -3,7 +3,6 @@ body {
     margin: 30px;
     padding: 30px;
     font-family: 'Times New Roman', Times, serif;
-    border-top-style: 10px solid black;
 }
 
 html {
@@ -11,11 +10,12 @@ html {
 }
 
 h1 {
+    border-top: 10px solid black;
     margin: 0;
 }
 
 div {
-    border-top-style: 30px solid black;
+    border-top: 10px solid black;
 }
 
 .blog {
