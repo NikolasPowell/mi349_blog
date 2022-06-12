@@ -76,13 +76,10 @@ label {
 aside {
     background: blue;
     flex: 1;
+    flex-direction: column;
 }
 
-div {
+.test {
     background: red;
     flex: 5
-}
-
-section {
-    display: flex;
 }
