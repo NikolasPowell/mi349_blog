@@ -69,5 +69,7 @@ label {
 }
 
 .Heart {
-    
+    height: 250px;
+    width: 250px;
+    float: right;
 }
