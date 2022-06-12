@@ -77,8 +77,13 @@ label {
     column-rule-style: dotted;
 }
 
-@media (max-width:600px){
+@media (max-width:400px){
     body{
         background-color: blue;
     }
+}
+
+img {
+    width: 100%;
+    height: auto;
 }
