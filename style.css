@@ -4,11 +4,12 @@ body {
     margin: 30px;
     padding: 30px;
     font-family: 'Times New Roman', Times, serif;
-    width: 700px;
+    width: 800px;
 }
 
 html {
     background: darkslategrey;
+    width: 800px;
 }
 
 /*This is a type selector*/
