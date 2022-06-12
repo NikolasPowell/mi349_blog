@@ -39,5 +39,5 @@ h3 {
 }
 
 a[title~=blogpic] {
-    border: 5px solid black
+    border: 5px solid black;
 }
