@@ -38,6 +38,7 @@ h3 {
     border-bottom: 5px double lightgrey;
 }
 
+/*This is a attribute selector*/
 a[target] {
     background-color: lightgrey;
 }
