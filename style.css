@@ -75,5 +75,10 @@ label {
 .column {
     column-count: 4;
     column-rule-style: dotted;
+}
 
+@media (max-width:600px){
+    body{
+        background-color: blue;
+    }
 }
