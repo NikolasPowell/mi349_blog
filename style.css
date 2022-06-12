@@ -12,7 +12,6 @@ html {
 
 /*This is a type selector*/
 p {
-    width: 900px;
     margin: 15px;
 }
 
@@ -75,7 +74,6 @@ label {
 
 .column {
     column-count: 4;
-    column-gap: 10px;
     column-rule-style: dotted;
 
 }
