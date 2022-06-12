@@ -44,6 +44,12 @@ a[target] {
 }
 
 label {
-    float: left;
+    font-weight: bold;
+    display: block;
+}
+
+#button {
+    background-color: black;
+    font-style: italic white;
 }
 
