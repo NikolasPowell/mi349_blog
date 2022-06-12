@@ -43,3 +43,7 @@ a[target] {
     background-color: lightgrey;
 }
 
+.sign {
+    border-style: solid black;
+}
+
