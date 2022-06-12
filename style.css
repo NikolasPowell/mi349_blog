@@ -82,3 +82,7 @@ div {
     background: red;
     flex: 5
 }
+
+#blog {
+    display: flex;
+}
