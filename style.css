@@ -70,5 +70,10 @@ label {
 
 .Heart {
     float: right;
-    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.destinyimg {
+    float: left;
+    margin-left: 10px;
 }
