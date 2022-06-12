@@ -75,5 +75,10 @@ label {
 
 article:nth-of-type(2) {
     display: flex;
+    
+}
+
+p:nth-of-type(7) {
     flex: 1;
+    background: lightgreen;
 }
