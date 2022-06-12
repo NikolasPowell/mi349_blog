@@ -43,7 +43,7 @@ a[target] {
     background-color: lightgrey;
 }
 
-a[target=_sign] {
-    border-style: 2px solid black;
+label {
+    float: left;
 }
 
