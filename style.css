@@ -1,3 +1,4 @@
+/*This is a type selector*/
 body {
     background-color: white;
     margin: 30px;
@@ -9,20 +10,26 @@ html {
     background: darkslategrey;
 }
 
+/*This is a type selector*/
 h1 {
     border-top: 10px solid black;
     margin: 0;
     border-bottom: 10px solid black;
 }
 
+/*This is a type selector*/
 h3 {
     margin: 0;
 }
 
+/*This is a id selector*/
 #blogs {
     border-top: 5px dotted black;
 }
 
+/*This is a class selector*/
 .blog {
     border-bottom: 5px double lightgrey;
 }
+
+
