@@ -12,10 +12,15 @@ html {
 h1 {
     border-top: 10px solid black;
     margin: 0;
+    border-bottom: 10px solid black;
+}
+
+h3 {
+    margin: 0;
 }
 
 #blogs {
-    border-top: 10px solid black;
+    border-top: 5px dotted black;
 }
 
 .blog {
