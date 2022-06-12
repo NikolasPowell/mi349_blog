@@ -72,3 +72,13 @@ label {
     float: left;
     margin-right: 10px;
 }
+
+aside {
+    background: blue;
+    flex: 1;
+}
+
+div {
+    background: red;
+    flex: 5
+}
