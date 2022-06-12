@@ -73,12 +73,9 @@ label {
     margin-right: 10px;
 }
 
-article:nth-of-type(2) {
-    display: flex;
-    
-}
+.column {
+    column-count: 4;
+    column-gap: 35px;
+    column-rule-style: dotted;
 
-p:nth-of-type(7) {
-    flex: 1;
-    background: lightgreen;
 }
