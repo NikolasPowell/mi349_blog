@@ -43,13 +43,20 @@ a[target] {
     background-color: lightgrey;
 }
 
+/*This is a type selector*/
 label {
     font-weight: bold;
     display: block;
 }
 
+/*This is a id selector*/
 #button {
     background-color: black;
-    font-style: italic white;
+    color: white;
 }
 
+/*This is a id selector*/
+#button2 {
+    background-color: black;
+    color: white;
+}
